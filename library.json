@@ -1,10 +1,14 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-19T19:20:29.784Z",
+  "exportedAt": "2026-10-20T22:07:13.972Z",
   "genres": [
     {
       "id": "electronic",
       "name": "Electronic"
+    },
+    {
+      "id": "heavy-metal",
+      "name": "Heavy Metal"
     },
     {
       "id": "indie-folk",
@@ -10620,6 +10624,474 @@
       "spotify": "spotify:album:7zkViIvCQ9JKanfUV6Dnu2",
       "cover": "https://i.scdn.co/image/ab67616d0000b273d9fb56fa3e17c214209b7fe0",
       "addedAt": "2026-10-17T14:04:38.934Z"
+    },
+    {
+      "id": "01M5DNMG2S36Z9KEGBHS95PF8T",
+      "title": "High Voltage",
+      "artists": [
+        "AC/DC"
+      ],
+      "artistSort": null,
+      "year": 1976,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:19AUoKWRAaQYrggVvdQnqq",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738c7f355d649e0a3cfcf6fc39",
+      "addedAt": "2026-10-20T22:06:43.801Z"
+    },
+    {
+      "id": "01M5DNMG2SBR4ZYAJEPVK1FKCH",
+      "title": "Imaginations from the Other Side",
+      "artists": [
+        "Blind Guardian"
+      ],
+      "artistSort": null,
+      "year": 1995,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:26B8ymdqbI7cBSGclGRy9w",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273db934a22709329b44786be3d",
+      "addedAt": "2026-10-20T22:06:43.801Z"
+    },
+    {
+      "id": "01M5DNMG2SC14K2BH0F2WDSXZV",
+      "title": "Back In Black",
+      "artists": [
+        "AC/DC"
+      ],
+      "artistSort": null,
+      "year": 1980,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:6mUdeDZCsExyJLMdAfDuwh",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
+      "addedAt": "2026-10-20T22:06:43.801Z"
+    },
+    {
+      "id": "01M5DNMG2SGEEWTCMRT673YNFK",
+      "title": "Let There Be Rock",
+      "artists": [
+        "AC/DC"
+      ],
+      "artistSort": null,
+      "year": 1977,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:3JwFNl80WWeXPiKEjIFbqa",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ff9064748ad3e70d76a55c66",
+      "addedAt": "2026-10-20T22:06:43.801Z"
+    },
+    {
+      "id": "01M5DNMG2SR4TQM5PZ7XASZAP4",
+      "title": "Somewhere Far Beyond",
+      "artists": [
+        "Blind Guardian"
+      ],
+      "artistSort": null,
+      "year": 1992,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:4oruHZSLyTDKPNY2VQIlCS",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e8c8f9410e7fe5fc25910fc2",
+      "addedAt": "2026-10-20T22:06:43.801Z"
+    },
+    {
+      "id": "01M5DNMG2SRAE4R8EX6TZV5495",
+      "title": "Nightfall in Middle Earth",
+      "artists": [
+        "Blind Guardian"
+      ],
+      "artistSort": null,
+      "year": 1998,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:7EPGJTyG9MQ6gJWANmL4n3",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735e77d3ce3a4f7f382daaf46f",
+      "addedAt": "2026-10-20T22:06:43.801Z"
+    },
+    {
+      "id": "01M5DNMG2SRVN6EZS8CQHC5EHK",
+      "title": "Highway to Hell",
+      "artists": [
+        "AC/DC"
+      ],
+      "artistSort": null,
+      "year": 1979,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:10v912xgTZbjAtYfyKWJCS",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27343058ea096fa35ac33c43587",
+      "addedAt": "2026-10-20T22:06:43.801Z"
+    },
+    {
+      "id": "01M5DNMG2T07GM2Z0NCKQX86DT",
+      "title": "Live",
+      "artists": [
+        "Blind Guardian"
+      ],
+      "artistSort": null,
+      "year": 2003,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:1BNjypcP3A4KDkkUEwAEkL",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d6d530ddb07a89478805bd7e",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2T1GTWM9MZT05BWKCG",
+      "title": "Master Of Puppets",
+      "artists": [
+        "Metallica"
+      ],
+      "artistSort": null,
+      "year": 1986,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:2Lq2qX3hYhiuPckC8Flj21",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273668e3aca3167e6e569a9aa20",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2T5TQGE3NMK6S2AR8E",
+      "title": "S&M",
+      "artists": [
+        "Metallica"
+      ],
+      "artistSort": null,
+      "year": 1999,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:1OZaosC2RtsE2TEqLziwAD",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732a2e23c85aef280bffd824e7",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2T78J2W7EQZ30WB93Z",
+      "title": "Burning Down the Opera (Live)",
+      "artists": [
+        "Edguy"
+      ],
+      "artistSort": null,
+      "year": 2003,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:4iIZvQCRtGLEM6XrsjnMef",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27373436b9635e45a92acebef53",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TAVSY8ASHPY527BKC",
+      "title": "Theater of Salvation",
+      "artists": [
+        "Edguy"
+      ],
+      "artistSort": null,
+      "year": 1999,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:4IREsCiABKskybnIFTleZ6",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273503827c505051fb9d3fc1637",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TB7YGQC242TFRAZ1C",
+      "title": "A Night at the Opera",
+      "artists": [
+        "Blind Guardian"
+      ],
+      "artistSort": null,
+      "year": 2002,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:38AEPlCWUaU4JOXcylCexR",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732d42baca54d9e6ad9ad3f77e",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TCYXS7RT6BRT5RP6V",
+      "title": "Kill 'Em All",
+      "artists": [
+        "Metallica"
+      ],
+      "artistSort": null,
+      "year": 1983,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:1aGapZGHBovnmhwqVNI6JZ",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d30fcf6340831edbafb45e38",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TEVXT0XQ434YNF415",
+      "title": "Ride The Lightning",
+      "artists": [
+        "Metallica"
+      ],
+      "artistSort": null,
+      "year": 1984,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:05DePtm7oQMdL3Uzw2Jmsc",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739ad3e9959f48d513886b8933",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TFBQ8S78G7B9QKRS4",
+      "title": "Load",
+      "artists": [
+        "Metallica"
+      ],
+      "artistSort": null,
+      "year": 1996,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:1LupC8p6zU5mDyrLvvWEuV",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731f64a7fb81f743272a6dd122",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TFWP42C08RPB6V1DE",
+      "title": "The Number of the Beast",
+      "artists": [
+        "Iron Maiden"
+      ],
+      "artistSort": null,
+      "year": 1982,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:5S3gls8Kjn8KVmqlIDEBbO",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735c29a88ba5341ca428f0c322",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TMDKHCJPABHX8AZV8",
+      "title": "St. Anger",
+      "artists": [
+        "Metallica"
+      ],
+      "artistSort": null,
+      "year": 2003,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:0HKpzK9ZoJ0oVA43E5gewM",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ee5869b2880109918fc47199",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TP6EPZE0GE9PGZ3W6",
+      "title": "Killers",
+      "artists": [
+        "Iron Maiden"
+      ],
+      "artistSort": null,
+      "year": 1981,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:5REF2imQI3lMAmeWcDXE3D",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732dec15ec59146ae03cbe7fdb",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TPN9Z26S6WGNTNCWN",
+      "title": "Vain Glory Opera",
+      "artists": [
+        "Edguy"
+      ],
+      "artistSort": null,
+      "year": 1998,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:2T9uuvdso9EyHnHG0r3l4Z",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273661fa273ca23e7b9859a03c7",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TPZ8ZG3ZY8JNR29CQ",
+      "title": "Mandrake",
+      "artists": [
+        "Edguy"
+      ],
+      "artistSort": null,
+      "year": 2001,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:2S5whZS0ouI2rHct9VJuK5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ed44479d621cb05e1ed6775b",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TR4JA11VZ00SK9H0B",
+      "title": "Fear of the Dark",
+      "artists": [
+        "Iron Maiden"
+      ],
+      "artistSort": null,
+      "year": 1992,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:16Su3EUFLPqWVyrwN1q5wO",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730dda9c11454b9053d07f585a",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TS5WZTJX366MHH41A",
+      "title": "Silence",
+      "artists": [
+        "Sonata Arctica"
+      ],
+      "artistSort": null,
+      "year": 2001,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:0XQtajoPnnLmx4Q5Xj2gH0",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27364d22ce190ad5ec39ba6cc95",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TSX48X64D3KFRBS4G",
+      "title": "…And Justice for All",
+      "artists": [
+        "Metallica"
+      ],
+      "artistSort": null,
+      "year": 1988,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:6jZ1z25PyF4Yd3kHxt9rl1",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273fe896727e3db1027ed72d885",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TW52Y88XE5311XJHE",
+      "title": "Reload",
+      "artists": [
+        "Metallica"
+      ],
+      "artistSort": null,
+      "year": 1997,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:0Ip2GlQPoAIgdkqCO2YkMa",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27306cb74d39d123ebe1b3c6631",
+      "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DNMG2TYRHZTJETPCC6G5HV",
+      "title": "The Savage Poetry",
+      "artists": [
+        "Edguy"
+      ],
+      "artistSort": null,
+      "year": 2000,
+      "genres": [
+        "heavy-metal"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:4UvMdZxiaqghoxI3nKOxjY",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273157cfac032cf87647d9c9195",
+      "addedAt": "2026-10-20T22:06:43.802Z"
     }
   ]
 }
