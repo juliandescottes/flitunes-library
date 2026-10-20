@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-20T22:07:13.972Z",
+  "exportedAt": "2026-10-20T22:15:09.395Z",
   "genres": [
     {
       "id": "electronic",
@@ -21,6 +21,10 @@
     {
       "id": "jazz",
       "name": "Jazz"
+    },
+    {
+      "id": "rock",
+      "name": "Rock"
     }
   ],
   "albums": [
@@ -11092,6 +11096,294 @@
       "spotify": "spotify:album:4UvMdZxiaqghoxI3nKOxjY",
       "cover": "https://i.scdn.co/image/ab67616d0000b273157cfac032cf87647d9c9195",
       "addedAt": "2026-10-20T22:06:43.802Z"
+    },
+    {
+      "id": "01M5DP36BM0GX8FSZSV7XJG29K",
+      "title": "Animals",
+      "artists": [
+        "Pink Floyd"
+      ],
+      "artistSort": null,
+      "year": 1977,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:3b4E89rxzZQ9zkhgKpj8N4",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273472f3fa4fa9c696f7ef8f037",
+      "addedAt": "2026-10-20T22:14:45.364Z"
+    },
+    {
+      "id": "01M5DP36BM1BHK8QZJWDQBQDEY",
+      "title": "Led Zeppelin",
+      "artists": [
+        "Led Zeppelin"
+      ],
+      "artistSort": null,
+      "year": 1969,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:1J8QW9qsMLx3staWaHpQmU",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c77c73285cc5cb64d97e1b0f",
+      "addedAt": "2026-10-20T22:14:45.364Z"
+    },
+    {
+      "id": "01M5DP36BM32PWFMZFG4XEP6AN",
+      "title": "Wish You Were Here",
+      "artists": [
+        "Pink Floyd"
+      ],
+      "artistSort": null,
+      "year": 1975,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:0bCAjiUamIFqKJsekOYuRw",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273828e52cfb7bf22869349799e",
+      "addedAt": "2026-10-20T22:14:45.364Z"
+    },
+    {
+      "id": "01M5DP36BMBX9SPDYMMVZZNTD4",
+      "title": "More",
+      "artists": [
+        "Pink Floyd"
+      ],
+      "artistSort": null,
+      "year": 1969,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:6AccmjV8Q5cEUZ2tvS8s6c",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732bea0884c4ad7b0ee16ce760",
+      "addedAt": "2026-10-20T22:14:45.364Z"
+    },
+    {
+      "id": "01M5DP36BMF4GPW1ARMJW0FENC",
+      "title": "Echoes: The Best of Pink Floyd",
+      "artists": [
+        "Pink Floyd"
+      ],
+      "artistSort": null,
+      "year": 2001,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:4fLDPTMutLCNWb7WoyCF86",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27361d593559ee208eb88965167",
+      "addedAt": "2026-10-20T22:14:45.364Z"
+    },
+    {
+      "id": "01M5DP36BMJ363A75Q53B7E9DV",
+      "title": "Led Zeppelin II",
+      "artists": [
+        "Led Zeppelin"
+      ],
+      "artistSort": null,
+      "year": 1969,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:58MQ0PLijVHePUonQlK76Y",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f396ea414b735ef23e2ed1a9",
+      "addedAt": "2026-10-20T22:14:45.364Z"
+    },
+    {
+      "id": "01M5DP36BMR8R57WBEXV4FC6YT",
+      "title": "Led Zeppelin III",
+      "artists": [
+        "Led Zeppelin"
+      ],
+      "artistSort": null,
+      "year": 1970,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:6P5QHz4XtxOmS5EuiGIPut",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb",
+      "addedAt": "2026-10-20T22:14:45.364Z"
+    },
+    {
+      "id": "01M5DP36BMRAT1B3JKYYGYCCS6",
+      "title": "Atom Heart Mother",
+      "artists": [
+        "Pink Floyd"
+      ],
+      "artistSort": null,
+      "year": 1970,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:2cUpAOlQjV5uSjkWj5bEQY",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273606fd1bee21c7863689e0487",
+      "addedAt": "2026-10-20T22:14:45.364Z"
+    },
+    {
+      "id": "01M5DP36BMRFZH88K9EM0QRADQ",
+      "title": "The Dark Side of the Moon",
+      "artists": [
+        "Pink Floyd"
+      ],
+      "artistSort": null,
+      "year": 1973,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:4LH4d3cOWNNsVw41Gqt2kv",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
+      "addedAt": "2026-10-20T22:14:45.364Z"
+    },
+    {
+      "id": "01M5DP36BMTDV5CQ2HMH8B9CRZ",
+      "title": "Led Zeppelin IV",
+      "artists": [
+        "Led Zeppelin"
+      ],
+      "artistSort": null,
+      "year": 1971,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:44Ig8dzqOkvkGDzaUof9lK",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
+      "addedAt": "2026-10-20T22:14:45.364Z"
+    },
+    {
+      "id": "01M5DP36BN5HD9K2VPV0WV4092",
+      "title": "Innuendo",
+      "artists": [
+        "Queen"
+      ],
+      "artistSort": null,
+      "year": 1991,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:0CNfnxzURJtjzeyELCBfvj",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730f0b764e930d478c16b8d2cc",
+      "addedAt": "2026-10-20T22:14:45.365Z"
+    },
+    {
+      "id": "01M5DP36BNA0QGT9WFCYQJKQ3Y",
+      "title": "Queen II",
+      "artists": [
+        "Queen"
+      ],
+      "artistSort": null,
+      "year": 1974,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:7qK4d2MZ3PaA63sg689CJr",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27333d47c578f4bf2445da65f1a",
+      "addedAt": "2026-10-20T22:14:45.365Z"
+    },
+    {
+      "id": "01M5DP36BNAKDZ22RN6JE70SGX",
+      "title": "Greatest Hits II",
+      "artists": [
+        "Queen"
+      ],
+      "artistSort": null,
+      "year": 1991,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:36ezh7pwcktRIhXmL2AFhp",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273787cd0b344ed20b338498f2a",
+      "addedAt": "2026-10-20T22:14:45.365Z"
+    },
+    {
+      "id": "01M5DP36BNG1QM8KQ2M3BFJP3X",
+      "title": "A Night At The Opera",
+      "artists": [
+        "Queen"
+      ],
+      "artistSort": null,
+      "year": 1975,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:1TkbyIkf6GSrO5e7gWS4AM",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273fdab4a163ab9f6db72c952ee",
+      "addedAt": "2026-10-20T22:14:45.365Z"
+    },
+    {
+      "id": "01M5DP36BNRGGDHAM4V4R8Y452",
+      "title": "Queen",
+      "artists": [
+        "Queen"
+      ],
+      "artistSort": null,
+      "year": 1973,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:28VpCXV4h5EgAAWGAnGu6x",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736dcd74eff57c54b830216b2d",
+      "addedAt": "2026-10-20T22:14:45.365Z"
+    },
+    {
+      "id": "01M5DP36BNXZGWS5DZ0GQCGWEK",
+      "title": "Greatest Hits",
+      "artists": [
+        "Queen"
+      ],
+      "artistSort": null,
+      "year": 1981,
+      "genres": [
+        "rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:3DOHi3mXBxsY5Sun3Sq2uw",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b8809efd73259c1bc1914995",
+      "addedAt": "2026-10-20T22:14:45.365Z"
     }
   ]
 }
