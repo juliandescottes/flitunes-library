@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-20T22:15:09.395Z",
+  "exportedAt": "2026-10-21T14:38:38.302Z",
   "genres": [
     {
       "id": "electronic",
@@ -1037,12 +1037,14 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "heavy-metal"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
-      "spotify": null,
-      "cover": null,
+      "spotify": "spotify:album:4uXDvGLWSqdVuaZEIeMyNs",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273e9a45a0cc00590e7997c94ac",
       "addedAt": "2026-10-17T14:04:38.927Z"
     },
     {
