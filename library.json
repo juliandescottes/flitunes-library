@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-21T21:41:09.671Z",
+  "exportedAt": "2026-10-26T16:19:05.783Z",
   "genres": [
     {
       "id": "electronic",
@@ -17,6 +17,10 @@
     {
       "id": "indie-rock",
       "name": "Indie Rock"
+    },
+    {
+      "id": "j-rock",
+      "name": "J-Rock"
     },
     {
       "id": "jazz",
@@ -1067,7 +1071,7 @@
       "id": "01M552VM4F562QQMFV8WKMSQ7V",
       "title": "Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever",
       "artists": [
-        "Explosions in the Sky"
+        "Explosions In The Sky"
       ],
       "artistSort": null,
       "year": null,
@@ -1328,7 +1332,9 @@
       "artistSort": null,
       "year": null,
       "genres": [],
-      "tags": [],
+      "tags": [
+        "missing-tracks"
+      ],
       "rating": null,
       "notes": "",
       "spotify": "spotify:album:4ZFCqS8Ye5qgp4w7Sq09T4",
@@ -1739,7 +1745,7 @@
       "id": "01M552VM4FQDDV7KHQEB8Y1VEA",
       "title": "How Strange, Innocence",
       "artists": [
-        "Explosions in the Sky"
+        "Explosions In The Sky"
       ],
       "artistSort": null,
       "year": null,
@@ -2027,7 +2033,7 @@
       "id": "01M552VM4FYEEYS972ZSD38KR2",
       "title": "The Rescue",
       "artists": [
-        "Explosions in the Sky"
+        "Explosions In The Sky"
       ],
       "artistSort": null,
       "year": null,
@@ -2123,7 +2129,7 @@
       "id": "01M552VM4G0ZC5BYE8F4RTJ76E",
       "title": "All of a Sudden I Miss Everyone",
       "artists": [
-        "Explosions in the Sky"
+        "Explosions In The Sky"
       ],
       "artistSort": null,
       "year": null,
@@ -2981,22 +2987,6 @@
       "notes": "",
       "spotify": null,
       "cover": null,
-      "addedAt": "2026-10-17T14:04:38.928Z"
-    },
-    {
-      "id": "01M552VM4GSNKS8PWRE531RB9F",
-      "title": "Earth Is Not a Cold Dead Place",
-      "artists": [
-        "Explosions in the Sky"
-      ],
-      "artistSort": null,
-      "year": null,
-      "genres": [],
-      "tags": [],
-      "rating": null,
-      "notes": "",
-      "spotify": "spotify:album:49buCcKCJwxvdl0R2dMoIU",
-      "cover": "covers/01M552VM4GSNKS8PWRE531RB9F.jpg",
       "addedAt": "2026-10-17T14:04:38.928Z"
     },
     {
@@ -11523,7 +11513,9 @@
       ],
       "artistSort": null,
       "year": 2016,
-      "genres": [],
+      "genres": [
+        "j-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 1,360 plays, 11/12 tracks, 2017-05-17 to 2025-09-09.",
@@ -11587,7 +11579,9 @@
       ],
       "artistSort": null,
       "year": 2015,
-      "genres": [],
+      "genres": [
+        "j-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 2,262 plays, 29/13 tracks, 2017-05-16 to 2026-01-13.",
@@ -13949,7 +13943,9 @@
       ],
       "artistSort": null,
       "year": 2019,
-      "genres": [],
+      "genres": [
+        "j-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 243 plays, 14/14 tracks, 2019-10-25 to 2025-07-22.",
@@ -15317,7 +15313,9 @@
       ],
       "artistSort": null,
       "year": 2021,
-      "genres": [],
+      "genres": [
+        "j-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 137 plays, 26/13 tracks, 2021-11-12 to 2026-10-16.",
@@ -18372,9 +18370,7 @@
       "artistSort": null,
       "year": 2003,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 62 plays, 34/17 tracks, 2011-03-12 to 2020-04-21.",
       "spotify": "spotify:album:17NWmNFnd31g2rc5vGyVol",
@@ -18806,9 +18802,7 @@
       "artistSort": null,
       "year": 2009,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 60 plays, 14/10 tracks, 2013-03-03 to 2026-04-06.",
       "spotify": "spotify:album:4KlCnvatrjbTDV03ENHW4S",
@@ -23692,9 +23686,7 @@
       "artistSort": null,
       "year": 2011,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 31 plays, 11/11 tracks, 2013-03-30 to 2021-03-28.",
       "spotify": "spotify:album:4rJP80n4HOuRE3hoeDctzH",
@@ -25688,9 +25680,7 @@
       "artistSort": null,
       "year": 2006,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 25 plays, 12/12 tracks, 2017-09-04 to 2026-08-27.",
       "spotify": "spotify:album:4ma7FIZ99q6QIOXTMMnk58",
@@ -32772,9 +32762,7 @@
       "artistSort": null,
       "year": 2025,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 15 plays, 15/53 tracks, 2026-09-17 to 2026-09-17.",
       "spotify": "spotify:album:2mvEK1s3lpArLiUVRkqoD5",
@@ -45874,6 +45862,24 @@
       "spotify": "spotify:album:31ZS1NZgdJey9iAXEmioLZ",
       "cover": "covers/01M5FGDEBDAAJ87NEJ1885DS36.jpg",
       "addedAt": "2026-10-21T14:41:32.556Z"
+    },
+    {
+      "id": "01M5KMDGT4AQKVFKZ8VCY5H42H",
+      "title": "BEST HIT AKG",
+      "artists": [
+        "ASIAN KUNG-FU GENERATION"
+      ],
+      "artistSort": null,
+      "year": 2012,
+      "genres": [
+        "j-rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:2fgUFE1g0dJfGL007BoveA",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2731f7e4a14a894499462aa82ce",
+      "addedAt": "2026-10-23T05:40:53.188Z"
     }
   ]
 }
