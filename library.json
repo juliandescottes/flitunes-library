@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-28T11:20:34.910Z",
+  "exportedAt": "2026-10-28T21:27:44.911Z",
   "genres": [
     {
       "id": "electronic",
@@ -19,6 +19,10 @@
       "name": "Indie Rock"
     },
     {
+      "id": "j-pop",
+      "name": "J-Pop"
+    },
+    {
       "id": "j-rock",
       "name": "J-Rock"
     },
@@ -29,6 +33,10 @@
     {
       "id": "rock",
       "name": "Rock"
+    },
+    {
+      "id": "video-game-music",
+      "name": "Video Game Music"
     }
   ],
   "albums": [
@@ -11917,7 +11925,9 @@
       ],
       "artistSort": null,
       "year": 2018,
-      "genres": [],
+      "genres": [
+        "j-pop"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 744 plays, 10/10 tracks, 2019-02-06 to 2026-09-15.",
@@ -12413,7 +12423,9 @@
       ],
       "artistSort": null,
       "year": 2020,
-      "genres": [],
+      "genres": [
+        "video-game-music"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 706 plays, 30/30 tracks, 2020-12-07 to 2026-05-11.",
@@ -12493,7 +12505,9 @@
       ],
       "artistSort": null,
       "year": 2016,
-      "genres": [],
+      "genres": [
+        "j-pop"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 494 plays, 24/24 tracks, 2017-07-04 to 2023-05-16.",
@@ -12893,7 +12907,9 @@
       ],
       "artistSort": null,
       "year": 2007,
-      "genres": [],
+      "genres": [
+        "video-game-music"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 435 plays, 37/37 tracks, 2013-03-01 to 2017-03-06.",
@@ -12957,7 +12973,9 @@
       ],
       "artistSort": null,
       "year": 2013,
-      "genres": [],
+      "genres": [
+        "j-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 382 plays, 5/5 tracks, 2019-12-11 to 2026-08-05.",
@@ -13594,9 +13612,7 @@
       "artistSort": null,
       "year": 2007,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 224 plays, 10/10 tracks, 2018-01-18 to 2025-08-05.",
       "spotify": "spotify:album:7KtBhRWitpnHoma8UWiDgz",
@@ -14503,7 +14519,9 @@
       ],
       "artistSort": null,
       "year": 2011,
-      "genres": [],
+      "genres": [
+        "video-game-music"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 188 plays, 21/22 tracks, 2013-03-10 to 2026-04-27.",
@@ -30168,9 +30186,7 @@
       "artistSort": null,
       "year": 2023,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 19 plays, 13/35 tracks, 2024-08-19 to 2025-03-06.",
       "spotify": "spotify:album:2GVNzK3tGoQzkhRHNka781",
@@ -30558,9 +30574,7 @@
       "artistSort": null,
       "year": 2016,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 18 plays, 10/10 tracks, 2017-09-27 to 2023-02-27.",
       "spotify": "spotify:album:60AbCpm4rzwsC765qA6Tjv",
@@ -33096,9 +33110,7 @@
       "artistSort": null,
       "year": 2011,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 16 plays, 9/13 tracks, 2018-01-18 to 2023-03-24.",
       "spotify": "spotify:album:71Sn50NZuxYSBG39nR4k6S",
@@ -37252,9 +37264,7 @@
       "artistSort": null,
       "year": 2005,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 13 plays, 9/10 tracks, 2021-12-22 to 2022-01-03.",
       "spotify": "spotify:album:7z7dvQlzK5kWlGFZa3UC4j",
@@ -42454,9 +42464,7 @@
       "artistSort": null,
       "year": 2018,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 11 plays, 7/14 tracks, 2018-10-02 to 2018-12-12.",
       "spotify": "spotify:album:1u8W9Bg8PPilIgReREkdl4",
