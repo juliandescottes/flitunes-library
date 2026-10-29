@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-28T21:27:44.911Z",
+  "exportedAt": "2026-10-29T08:05:22.106Z",
   "genres": [
     {
       "id": "electronic",
@@ -31,8 +31,20 @@
       "name": "Jazz"
     },
     {
+      "id": "math-rock",
+      "name": "Math Rock"
+    },
+    {
+      "id": "post-rock",
+      "name": "Post Rock"
+    },
+    {
       "id": "rock",
       "name": "Rock"
+    },
+    {
+      "id": "synthwave",
+      "name": "Synthwave"
     },
     {
       "id": "video-game-music",
@@ -537,7 +549,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -713,7 +727,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -745,7 +761,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -889,7 +907,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -921,7 +941,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -969,7 +991,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -985,7 +1009,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1067,7 +1093,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1083,7 +1111,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1115,7 +1145,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1131,7 +1163,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1147,7 +1181,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1227,7 +1263,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1243,7 +1281,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1357,7 +1397,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1389,7 +1431,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1581,7 +1625,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1597,7 +1643,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "electronic"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1645,7 +1693,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1757,7 +1807,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1805,7 +1857,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "electronic"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1837,7 +1891,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1869,7 +1925,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1917,7 +1975,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1933,7 +1993,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -2045,7 +2107,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -2141,7 +2205,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -2221,7 +2287,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -2365,7 +2433,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -2397,7 +2467,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -2461,7 +2533,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -2525,7 +2599,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -2573,7 +2649,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -2797,7 +2875,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -2893,7 +2973,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3021,7 +3103,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3149,7 +3233,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3213,7 +3299,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3341,7 +3429,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3373,7 +3463,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3469,7 +3561,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3549,7 +3643,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3565,7 +3661,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3613,7 +3711,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3629,7 +3729,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3661,7 +3763,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -4141,7 +4245,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -4253,7 +4359,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -5053,7 +5161,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "math-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -5325,7 +5435,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -5469,7 +5581,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -5773,7 +5887,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -7005,7 +7121,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -7165,7 +7283,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -7501,7 +7621,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -7565,7 +7687,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -7837,7 +7961,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -7933,7 +8059,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -8109,7 +8237,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -8173,7 +8303,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -8397,7 +8529,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -8541,7 +8675,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -8749,7 +8885,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -8829,7 +8967,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -9741,7 +9881,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -10061,7 +10203,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -10621,7 +10765,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -11409,7 +11555,9 @@
       ],
       "artistSort": null,
       "year": 2014,
-      "genres": [],
+      "genres": [
+        "video-game-music"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 3,692 plays, 29/29 tracks, 2015-01-01 to 2025-07-17.",
@@ -11441,7 +11589,9 @@
       ],
       "artistSort": null,
       "year": 2013,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 1,661 plays, 11/11 tracks, 2013-09-09 to 2026-01-23.",
@@ -11877,7 +12027,9 @@
       ],
       "artistSort": null,
       "year": 2015,
-      "genres": [],
+      "genres": [
+        "j-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 844 plays, 11/11 tracks, 2021-10-21 to 2026-05-22.",
@@ -12023,7 +12175,9 @@
       ],
       "artistSort": null,
       "year": 2016,
-      "genres": [],
+      "genres": [
+        "video-game-music"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 860 plays, 31/31 tracks, 2017-03-10 to 2026-03-10.",
@@ -12071,7 +12225,9 @@
       ],
       "artistSort": null,
       "year": 2016,
-      "genres": [],
+      "genres": [
+        "video-game-music"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 743 plays, 18/18 tracks, 2016-08-15 to 2025-09-16.",
@@ -12183,7 +12339,9 @@
       ],
       "artistSort": null,
       "year": 2018,
-      "genres": [],
+      "genres": [
+        "j-pop"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 620 plays, 6/6 tracks, 2019-03-26 to 2026-03-23.",
@@ -12407,7 +12565,9 @@
       ],
       "artistSort": null,
       "year": 2013,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 480 plays, 8/8 tracks, 2014-10-09 to 2023-05-22.",
@@ -12555,7 +12715,9 @@
       ],
       "artistSort": null,
       "year": 2016,
-      "genres": [],
+      "genres": [
+        "synthwave"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 518 plays, 20/10 tracks, 2016-07-11 to 2025-12-04.",
@@ -13104,9 +13266,7 @@
       "artistSort": null,
       "year": 2021,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 295 plays, 16/8 tracks, 2021-04-07 to 2025-07-07.",
       "spotify": "spotify:album:1RDLG5wi0a2Lrgdxs32tKL",
@@ -13155,7 +13315,9 @@
       ],
       "artistSort": null,
       "year": 2014,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 338 plays, 9/9 tracks, 2014-10-08 to 2016-10-18.",
@@ -13820,9 +13982,7 @@
       "artistSort": null,
       "year": 2012,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 233 plays, 8/4 tracks, 2013-02-28 to 2023-04-14.",
       "spotify": "spotify:album:30bTXMxsMsYn7QbwmDW3rj",
@@ -13891,7 +14051,9 @@
       ],
       "artistSort": null,
       "year": 2010,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 231 plays, 20/9 tracks, 2014-06-10 to 2026-02-10.",
@@ -14012,9 +14174,7 @@
       "artistSort": null,
       "year": 2017,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 257 plays, 11/8 tracks, 2017-10-09 to 2023-05-04.",
       "spotify": "spotify:album:2eOMttZbB9lBc9LLMj56xj",
@@ -14451,7 +14611,9 @@
       ],
       "artistSort": null,
       "year": 2013,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 207 plays, 9/9 tracks, 2013-07-04 to 2016-05-30.",
@@ -15109,7 +15271,9 @@
       ],
       "artistSort": null,
       "year": 2019,
-      "genres": [],
+      "genres": [
+        "j-pop"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 144 plays, 10/10 tracks, 2019-12-16 to 2025-09-22.",
@@ -16793,7 +16957,9 @@
       ],
       "artistSort": null,
       "year": 2011,
-      "genres": [],
+      "genres": [
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 87 plays, 30/10 tracks, 2014-10-15 to 2026-04-24.",
@@ -16979,7 +17145,9 @@
       ],
       "artistSort": null,
       "year": 2017,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 79 plays, 10/9 tracks, 2017-06-01 to 2023-03-24.",
@@ -17540,9 +17708,7 @@
       "artistSort": null,
       "year": 2024,
       "genres": [],
-      "tags": [
-        "triage"
-      ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 71 plays, 6/6 tracks, 2024-11-13 to 2025-07-07.",
       "spotify": "spotify:album:1qG30zCAZ30hsmA5wAlaQ3",
@@ -17625,7 +17791,9 @@
       ],
       "artistSort": null,
       "year": 2021,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 73 plays, 11/11 tracks, 2021-05-21 to 2026-04-08.",
@@ -18333,7 +18501,9 @@
       ],
       "artistSort": null,
       "year": 2016,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 61 plays, 7/7 tracks, 2016-08-07 to 2023-05-22.",
@@ -18733,7 +18903,9 @@
       ],
       "artistSort": null,
       "year": 2014,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 59 plays, 10/10 tracks, 2014-01-29 to 2014-11-04.",
@@ -18801,7 +18973,9 @@
       ],
       "artistSort": null,
       "year": 2017,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 55 plays, 11/11 tracks, 2017-09-04 to 2019-04-12.",
@@ -19685,7 +19859,9 @@
       ],
       "artistSort": null,
       "year": 2016,
-      "genres": [],
+      "genres": [
+        "j-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 49 plays, 10/10 tracks, 2018-08-07 to 2022-02-23.",
@@ -19771,7 +19947,9 @@
       ],
       "artistSort": null,
       "year": 2003,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 46 plays, 5/5 tracks, 2020-08-06 to 2025-05-14.\nOther edition: https://open.spotify.com/album/2UvgHoF8RAxomkWHGVpiqF (35 plays).",
@@ -21509,7 +21687,9 @@
       ],
       "artistSort": null,
       "year": 2025,
-      "genres": [],
+      "genres": [
+        "j-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 39 plays, 13/13 tracks, 2026-01-20 to 2026-06-01.",
@@ -21863,7 +22043,9 @@
       ],
       "artistSort": null,
       "year": 2016,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 37 plays, 10/9 tracks, 2016-04-02 to 2023-02-17.",
@@ -26799,7 +26981,9 @@
       ],
       "artistSort": null,
       "year": 2011,
-      "genres": [],
+      "genres": [
+        "video-game-music"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 23 plays, 19/40 tracks, 2019-07-11 to 2019-08-16.",
@@ -29469,7 +29653,9 @@
       ],
       "artistSort": null,
       "year": 2011,
-      "genres": [],
+      "genres": [
+        "video-game-music"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 19 plays, 19/80 tracks, 2014-07-13 to 2014-07-13.",
@@ -30307,7 +30493,9 @@
       ],
       "artistSort": null,
       "year": 2016,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 18 plays, 11/10 tracks, 2016-04-04 to 2021-11-17.",
@@ -41097,7 +41285,9 @@
       ],
       "artistSort": null,
       "year": 2011,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 11 plays, 11/11 tracks, 2013-03-01 to 2013-03-01.",
@@ -44133,7 +44323,9 @@
       ],
       "artistSort": null,
       "year": 2025,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 10 plays, 10/10 tracks, 2025-04-22 to 2025-04-22.",
