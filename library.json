@@ -1,7 +1,11 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-10-30T16:02:21.864Z",
+  "exportedAt": "2026-11-04T12:18:53.230Z",
   "genres": [
+    {
+      "id": "alt-rock",
+      "name": "Alt Rock"
+    },
     {
       "id": "electronic",
       "name": "Electronic"
@@ -33,6 +37,10 @@
     {
       "id": "math-rock",
       "name": "Math Rock"
+    },
+    {
+      "id": "new-wave",
+      "name": "New Wave"
     },
     {
       "id": "post-rock",
@@ -745,7 +753,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "alt-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -1199,7 +1209,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "alt-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -2401,7 +2413,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "alt-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3121,7 +3135,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "alt-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3695,7 +3711,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "alt-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -3909,7 +3927,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "alt-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -7235,7 +7255,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "alt-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -7267,7 +7289,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "alt-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -7573,7 +7597,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -8125,7 +8151,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "new-wave"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -12925,7 +12953,9 @@
       ],
       "artistSort": null,
       "year": 2013,
-      "genres": [],
+      "genres": [
+        "j-pop"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 345 plays, 8/8 tracks, 2018-01-23 to 2022-01-06.",
@@ -17757,7 +17787,9 @@
       ],
       "artistSort": null,
       "year": 1995,
-      "genres": [],
+      "genres": [
+        "rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 77 plays, 24/12 tracks, 2014-08-23 to 2020-08-07.",
@@ -18957,7 +18989,9 @@
       ],
       "artistSort": null,
       "year": 2026,
-      "genres": [],
+      "genres": [
+        "alt-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 60 plays, 17/17 tracks, 2026-06-19 to 2026-07-28.",
