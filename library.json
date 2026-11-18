@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-11-18T06:37:26.652Z",
+  "exportedAt": "2026-11-18T13:20:02.449Z",
   "genres": [
     {
       "id": "alt-rock",
@@ -13,6 +13,10 @@
     {
       "id": "heavy-metal",
       "name": "Heavy Metal"
+    },
+    {
+      "id": "heavy-shoegaze",
+      "name": "Heavy Shoegaze"
     },
     {
       "id": "indie-folk",
@@ -1863,7 +1867,10 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "shoegaze",
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -4898,7 +4905,10 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "shoegaze",
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -46184,6 +46194,43 @@
       "spotify": "spotify:album:2GlgB4c1HK5fpihQHTDt1Z",
       "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273a5e62d7cb3f58121b631b84e",
       "addedAt": "2026-11-05T18:30:47.239Z"
+    },
+    {
+      "id": "01M7PP4RW5BE8YCZ9D15Q5EB1V",
+      "title": "Guilty of Everything",
+      "artists": [
+        "Nothing"
+      ],
+      "artistSort": null,
+      "year": 2014,
+      "genres": [
+        "shoegaze",
+        "heavy-shoegaze"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:2bBtD1q0hKNztuOLGcToL6",
+      "cover": "https://i.scdn.co/image/a0380aafb61ff7512f3079fda5d9adfaad368d06",
+      "addedAt": "2026-11-18T06:40:10.629Z"
+    },
+    {
+      "id": "01M7QBT12RDK2S9RCKDZJF6B0P",
+      "title": "True Widow",
+      "artists": [
+        "True Widow"
+      ],
+      "artistSort": null,
+      "year": 2008,
+      "genres": [
+        "shoegaze"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:0jZGvTQzUpaJxdLZZEiKey",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273837ed85e7172578203094eae",
+      "addedAt": "2026-11-18T12:58:47.256Z"
     }
   ]
 }
