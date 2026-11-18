@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-11-18T06:33:14.549Z",
+  "exportedAt": "2026-11-18T06:37:26.652Z",
   "genres": [
     {
       "id": "alt-rock",
@@ -49,6 +49,10 @@
     {
       "id": "rock",
       "name": "Rock"
+    },
+    {
+      "id": "shoegaze",
+      "name": "Shoegaze"
     },
     {
       "id": "synthwave",
@@ -125,7 +129,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -301,7 +307,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "shoegaze"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -493,7 +501,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -2153,7 +2163,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -4222,7 +4234,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "shoegaze"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -4626,7 +4640,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "shoegaze"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -6221,7 +6237,10 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "shoegaze",
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -11678,7 +11697,9 @@
       ],
       "artistSort": null,
       "year": 2013,
-      "genres": [],
+      "genres": [
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 1,109 plays, 67/13 tracks, 2013-09-09 to 2024-01-03.\nOther edition: https://open.spotify.com/album/7HTKIIhsSQNTDfahJBnCOT (77 plays).",
@@ -11744,7 +11765,9 @@
       ],
       "artistSort": null,
       "year": 2022,
-      "genres": [],
+      "genres": [
+        "video-game-music"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 1,883 plays, 23/23 tracks, 2022-11-07 to 2026-04-03.",
@@ -11874,7 +11897,9 @@
       ],
       "artistSort": null,
       "year": 2018,
-      "genres": [],
+      "genres": [
+        "j-pop"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 1,573 plays, 10/10 tracks, 2018-05-19 to 2020-09-06.",
@@ -12150,7 +12175,10 @@
       ],
       "artistSort": null,
       "year": 2012,
-      "genres": [],
+      "genres": [
+        "shoegaze",
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 840 plays, 10/10 tracks, 2021-05-05 to 2026-09-14.",
@@ -12314,7 +12342,9 @@
       ],
       "artistSort": null,
       "year": 2010,
-      "genres": [],
+      "genres": [
+        "video-game-music"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 770 plays, 48/24 tracks, 2015-05-12 to 2026-02-06.",
@@ -13030,7 +13060,9 @@
       ],
       "artistSort": null,
       "year": 2017,
-      "genres": [],
+      "genres": [
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 454 plays, 14/13 tracks, 2017-06-09 to 2020-07-22.",
@@ -13160,7 +13192,9 @@
       ],
       "artistSort": null,
       "year": 2017,
-      "genres": [],
+      "genres": [
+        "shoegaze"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 355 plays, 16/8 tracks, 2017-05-05 to 2026-09-02.",
@@ -13194,7 +13228,9 @@
       ],
       "artistSort": null,
       "year": 2024,
-      "genres": [],
+      "genres": [
+        "j-pop"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 425 plays, 11/11 tracks, 2025-04-22 to 2026-05-13.",
@@ -14790,7 +14826,9 @@
       ],
       "artistSort": null,
       "year": 2019,
-      "genres": [],
+      "genres": [
+        "j-pop"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 160 plays, 11/11 tracks, 2019-03-21 to 2020-09-06.",
@@ -16092,7 +16130,10 @@
       ],
       "artistSort": null,
       "year": 2010,
-      "genres": [],
+      "genres": [
+        "shoegaze",
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 121 plays, 30/10 tracks, 2013-03-07 to 2026-06-17.",
@@ -16584,7 +16625,9 @@
       ],
       "artistSort": null,
       "year": 2021,
-      "genres": [],
+      "genres": [
+        "indie-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 93 plays, 13/13 tracks, 2021-03-23 to 2021-12-07.",
@@ -18268,7 +18311,9 @@
       ],
       "artistSort": null,
       "year": 2018,
-      "genres": [],
+      "genres": [
+        "j-pop"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 68 plays, 10/10 tracks, 2020-12-21 to 2026-02-25.",
@@ -24570,7 +24615,9 @@
       ],
       "artistSort": null,
       "year": 2023,
-      "genres": [],
+      "genres": [
+        "j-pop"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 30 plays, 7/7 tracks, 2023-04-13 to 2024-01-30.",
@@ -25744,7 +25791,9 @@
       ],
       "artistSort": null,
       "year": 2019,
-      "genres": [],
+      "genres": [
+        "j-pop"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 25 plays, 11/11 tracks, 2021-01-22 to 2026-08-06.",
@@ -29910,7 +29959,9 @@
       ],
       "artistSort": null,
       "year": 2002,
-      "genres": [],
+      "genres": [
+        "shoegaze"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 19 plays, 3/28 tracks, 2017-04-13 to 2025-09-16.",
@@ -35630,7 +35681,9 @@
       ],
       "artistSort": null,
       "year": 2025,
-      "genres": [],
+      "genres": [
+        "video-game-music"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 13 plays, 11/34 tracks, 2026-01-25 to 2026-04-03.",
@@ -36740,7 +36793,9 @@
       ],
       "artistSort": null,
       "year": 2023,
-      "genres": [],
+      "genres": [
+        "shoegaze"
+      ],
       "tags": [],
       "rating": null,
       "notes": "Spotify history: 13 plays, 8/8 tracks, 2026-05-25 to 2026-06-04.",
