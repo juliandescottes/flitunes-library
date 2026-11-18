@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-11-04T12:18:53.230Z",
+  "exportedAt": "2026-11-18T06:33:14.549Z",
   "genres": [
     {
       "id": "alt-rock",
@@ -2333,7 +2333,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "electronic"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -4185,7 +4187,10 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "math-rock",
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -5117,7 +5122,10 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "math-rock",
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -8413,7 +8421,10 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "math-rock",
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -46100,6 +46111,24 @@
       "spotify": "spotify:album:2fgUFE1g0dJfGL007BoveA",
       "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2731f7e4a14a894499462aa82ce",
       "addedAt": "2026-10-23T05:40:53.188Z"
+    },
+    {
+      "id": "01M6PFMK67A05YFK6VH06AQT7H",
+      "title": "Purity Spiral",
+      "artists": [
+        "Shy, Low"
+      ],
+      "artistSort": null,
+      "year": null,
+      "genres": [
+        "post-rock"
+      ],
+      "tags": [],
+      "rating": null,
+      "notes": "",
+      "spotify": "spotify:album:2GlgB4c1HK5fpihQHTDt1Z",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273a5e62d7cb3f58121b631b84e",
+      "addedAt": "2026-11-05T18:30:47.239Z"
     }
   ]
 }
