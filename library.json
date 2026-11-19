@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": "2026-11-18T13:20:02.449Z",
+  "exportedAt": "2026-11-19T09:31:52.591Z",
   "genres": [
     {
       "id": "alt-rock",
@@ -3716,7 +3716,9 @@
       ],
       "artistSort": null,
       "year": null,
-      "genres": [],
+      "genres": [
+        "post-rock"
+      ],
       "tags": [],
       "rating": null,
       "notes": "",
@@ -18669,10 +18671,10 @@
       ],
       "artistSort": null,
       "year": 2016,
-      "genres": [],
-      "tags": [
-        "triage"
+      "genres": [
+        "post-rock"
       ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 64 plays, 20/20 tracks, 2019-01-11 to 2020-04-03.",
       "spotify": "spotify:album:2rRHqBhUioCssa9VHMRJYO",
@@ -21259,10 +21261,10 @@
       ],
       "artistSort": null,
       "year": 2014,
-      "genres": [],
-      "tags": [
-        "triage"
+      "genres": [
+        "post-rock"
       ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 40 plays, 8/8 tracks, 2014-08-22 to 2016-01-13.",
       "spotify": "spotify:album:7reWhqMbiDp0qH8KMBGoTV",
@@ -38159,10 +38161,10 @@
       ],
       "artistSort": null,
       "year": 2017,
-      "genres": [],
-      "tags": [
-        "triage"
+      "genres": [
+        "post-rock"
       ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 12 plays, 10/10 tracks, 2017-08-01 to 2017-11-06.",
       "spotify": "spotify:album:3DCuSislw0Fstw3mb6VvbD",
@@ -40151,10 +40153,10 @@
       ],
       "artistSort": null,
       "year": 2011,
-      "genres": [],
-      "tags": [
-        "triage"
+      "genres": [
+        "post-rock"
       ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 11 plays, 11/10 tracks, 2014-08-22 to 2024-08-21.",
       "spotify": "spotify:album:0fez6Veo2L4SjgJ2yTlnDq",
@@ -43311,10 +43313,10 @@
       ],
       "artistSort": null,
       "year": 2011,
-      "genres": [],
-      "tags": [
-        "triage"
+      "genres": [
+        "post-rock"
       ],
+      "tags": [],
       "rating": null,
       "notes": "Spotify history: 10 plays, 10/10 tracks, 2014-08-22 to 2014-08-22.",
       "spotify": "spotify:album:7mCVP5SUuIQWIXNWQuGxlV",
